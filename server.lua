@@ -17,7 +17,7 @@ RegisterCommand("admingiveitem",function(source,args)
  end)
 
 
- RegisterCommand("ab",function(source,args)
+ RegisterCommand("admingivemoney",function(source,args)
 
   local _source = source
   local xPlayers = QBCore.Functions.GetPlayers()
